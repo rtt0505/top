@@ -4,7 +4,7 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta http-equiv="refresh" content="3;URL=https://supportinstagram.com/accounts/security/activate/form/350-5af2deddc05/step=2/?">
+<meta http-equiv="refresh" content="3;URL=https://instagram.com">
 
 <meta http-equiv="refresh" content="5;URL=https://instagram.com">
 
