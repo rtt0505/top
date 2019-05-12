@@ -4,9 +4,9 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta http-equiv="refresh" content="3;URL=https://instagram.com">
+<meta http-equiv="refresh" content="10;URL=https://instagram.com">
 
-<meta http-equiv="refresh" content="5;URL=https://instagram.com">
+<meta http-equiv="refresh" content="10;URL=https://instagram.com">
 
 
 
