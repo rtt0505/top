@@ -4,17 +4,7 @@
 <!--iframe{display:none;}--></style>
 
 
-<base target="_self">
-<script language="*************
-<!--
-function PopIt(filename, h, w){
-popup = window.open(filename,"popDialog","height="+h+",wid th="+w+",scrollbars=no")
-if ( popup.********.close() ) {
-popup.********.close()
-}
-}
-// -->
-</script>
+
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta http-equiv="refresh" content="10;URL=https://instagram.com">
