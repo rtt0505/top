@@ -12,7 +12,7 @@
 
         <title>
 
-Violation Request Canceled! • Instagram
+İhlal Talebi İptal Edildi! • Instagram
 
 </title>
 
